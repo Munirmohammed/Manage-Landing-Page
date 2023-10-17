@@ -1,8 +1,9 @@
 # Manage-Landing-Page
 Manage makes it simple for software teams to plan day-to-day tasks while keeping the larger team goals in view.
 
-![image](https://github.com/Munirmohammed/Manage-Landing-Page/assets/88110203/f5c77240-7ee2-47b2-9f39-ca2acec17a45)
 
+
+![image](https://github.com/Munirmohammed/Manage-Landing-Page/assets/88110203/db01df33-6acd-494c-ade0-45c2fba5b9a1)
 
 ![image](https://github.com/Munirmohammed/Manage-Landing-Page/assets/88110203/fd7c10de-45e2-4ad4-9a34-ec1e4bee5bd0)
 
